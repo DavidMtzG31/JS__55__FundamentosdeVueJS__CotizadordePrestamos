@@ -109,7 +109,6 @@
       <p class="text-cl text-gray-500 text-center font-bold">Total a Pagar: {{ formatearDinero(total) }}</p>
 
     </div>
-
   </div> <!-- .div principal-->
 
 </template>
